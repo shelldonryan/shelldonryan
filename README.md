@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="left">I’m currently working as a Mobile Developer at a software house specializing in the commerce sector.</h4>
+<h4 align="center">I’m currently working as a Mobile Developer at a software house specializing in the commerce sector.</h4>
 
 ###
 
-<h4 align="left">I'm a Computer Science student and have knowledge in some areas such as <br><br>- Web Development<br>- DevOps</h4>
+<h4 align="left">I'm a Computer Science student and have knowledge in some areas such as:<br>- Web Development<br>- DevOps</h4>
 
 ###
 
@@ -67,8 +67,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shelldonryan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&custom_title=Shelldon%20Ryan" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=shelldonryan&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shelldonryan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&custom_title=Shelldon%20Ryan" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=shelldonryan&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
