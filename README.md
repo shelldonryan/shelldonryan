@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">I’m currently working as a Mobile Developer at a software house specializing in the commerce sector.</h4>
+<h4 align="left">I’m currently working as a Mobile Developer at a software house specializing in the commerce sector.</h4>
 
 ###
 
@@ -83,7 +83,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shelldonryan/shelldonryan/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shelldonryan/shelldonryan/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
