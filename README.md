@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">I'm a Computer Science student and have knowledge in some areas such as:<br>- Web Development<br>- DevOps</h4>
+<h4 align="left">I'm a Computer Science student and have knowledge in some areas such as:<br>- Web Development<br>- DevOps<br>- Mobile Development</h4>
 
 ###
 
