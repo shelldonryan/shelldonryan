@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">I'm a Computer Science student and have knowledge in some areas such as:<br>- Web Development with Java <br>- C# Web Development with Blazor <br>- Mobile Development with Flutter</h4>
+<h4 align="left">I'm a Computer Science student and have knowledge in some areas such as:<br>- Java Web Development with Spring <br>- C# Web Development with Blazor <br>- Mobile Development with Flutter</h4>
 
 ###
 
